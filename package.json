@@ -5,7 +5,8 @@
   "description": "Async Static Site",
   "scripts": {
     "test": "gulp",
-    "start": "gulp watch"
+    "start": "gulp watch",
+    "bumpwebsite": "git commit --allow-empty -m \"Kick Website\""
   },
   "repository": {
     "type": "git",
